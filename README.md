@@ -1,16 +1,15 @@
 # About me
 
-Student at SMA Negeri 4 Semarang
+Alumni at SMA Negeri 4 Semarang
+Student at Diponegoro Uniserity, majoring Agroecotechnology
 
-Discord   : Pensil 2B #7277
+Discord       : Pensil 2B #7277
 
-Skilvul   : https://skilvul.com/profile/ckrvn2efvlimd0722x06bou2w
+Researchgate  :  https://www.researchgate.net/profile/Dedy-Setiawan-8
 
-osu!      : https://osu.ppy.sh/users/14989473
+osu!          : https://osu.ppy.sh/users/14989473
 
-instagram : @dr.foxee
-
-twitter   : @usOeexoF
+instagram     : @dr.foxee
 
 interest with, Python, HTML, Javascript(still learning)
 
